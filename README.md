@@ -7,7 +7,7 @@ This portfolio contains samples of my work across various areas of data analysis
 **Below are the repositories for 8 of my computational work samples:**
 <br><br>
 ### Web Development (HTML/CSS/JavaScript):
-#### [🔗 Portfolio Website](https://github.com/darlenecheong/Personal-Website)
+#### [🔗 Personal Website](https://github.com/darlenecheong/Personal-Website)
 - *A personal portfolio website built using HTML, CSS, and JavaScript, showcasing my background and projects.*
 ---
 
