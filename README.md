@@ -39,13 +39,17 @@ This portfolio contains samples of my work across various areas of data analysis
 
 <br><br>
 
+<details>
+  <summary>Additional information about me.</summary>
+
 ## 📄 Publications
 - **[Rapid surveillance of New York City healthcare center egress behaviors during the 2020 COVID-19 lockdown](https://www.nature.com/articles/s41597-023-02692-0)** – Published in *Scientific Data (Nature)*, this project was a 9-week observational study that established a protocol and archival dataset describing the egress behaviors of individuals leaving healthcare centers in New York City during the 2020 COVID-19 PAUSE order.
 
 [![Nature](https://img.shields.io/badge/Published%20in-Nature-000000?style=flat&logo=googlescholar&logoColor=white)](https://www.nature.com/articles/s41597-023-02692-0)
-
 <br><br>
 
 ## 📬 Contact Me  
 - **Email**: [darlenecheongsw@gmail.com](mailto:darlenecheongsw@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/darlenecheong](https://www.linkedin.com/in/darlenecheong/)
+
+</details>
