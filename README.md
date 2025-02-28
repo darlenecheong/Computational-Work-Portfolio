@@ -3,7 +3,7 @@ This portfolio contains samples of my work across various areas of data analysis
 
 <br><br>
 
-## Work Samples  
+# Work Samples  
 **Below are the repositories for 8 of my computational work samples:**
 <br><br>
 ### Web Development (HTML/CSS/JavaScript):
