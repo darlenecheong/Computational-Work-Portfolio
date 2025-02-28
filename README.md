@@ -16,7 +16,7 @@ This portfolio contains samples of my work across various areas of data analysis
 - *This project uses a Susceptible-Infected-Recovered (SIR) model to simulate and analyze the spread of infectious diseases, exploring the impact of infection and recovery rates on disease dynamics over time.*
 #### [🔗 Exploratory Data Analysis on PPE Usage and Weather](https://github.com/darlenecheong/PPE-Usage-Weather-Analysis) 
 - *An exploratory data analysis looking at the relationship between weather conditions and personal protective equipment (PPE) usage, aiming to understand how temperature, humidity, and weather types can influence PPE compliance.*
-- #### [🔗 Bacterial Sporulation T-Test Analysis](https://github.com/darlenecheong/Sporulation-T-Test) 
+#### [🔗 Bacterial Sporulation T-Test Analysis](https://github.com/darlenecheong/Sporulation-T-Test) 
 - *An R script for performing two-sample t-tests to compare sporulation efficiency between wild-type and mutant Bacillus subtilis strains.*
 ---
 
