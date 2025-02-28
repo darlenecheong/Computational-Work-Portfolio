@@ -19,7 +19,7 @@ This portfolio contains samples of my work across various areas of data analysis
 - *An R script for performing two-sample t-tests to compare sporulation efficiency between wild-type and mutant Bacillus subtilis strains.*
 ---
 
-### Python Projects:
+### Python:
 #### [🔗 Blackjack Simulator](https://github.com/darlenecheong/Blackjack-Simulator) 
 - *A Python implementation of the classic Blackjack card game, featuring functionality for dealing cards, calculating hand values, and determining the winner between the player and the dealer.*
 
@@ -27,12 +27,12 @@ This portfolio contains samples of my work across various areas of data analysis
 - *This Python script validates usernames and passwords based on specific criteria (such as length, character types, and restrictions) and provides a function to generate secure passwords that meet all requirements.*
 ---
 
-### ArcGIS Project:
+### ArcGIS:
 #### [🔗 Transit Risk Zones during COVID-19 in NYC](https://github.com/darlenecheong/NYC-COVID19-Transit-RiskZones)
 - *An ArcGIS map visualizing transportation methods used by patients leaving medical facilities in NYC during the COVID-19 PAUSE order, highlighting potential risk zones based on transit ridership and mobility patterns.*
 ---
 
-### Arduino (C++) Project:
+### Arduino (C++):
 #### [🔗 Motion Activated Feeder](https://github.com/darlenecheong/Motion-Activated-Feeder)
 - *C++ code for an Arduino Uno board, functioning to control an automated pellet feeder system, using a PIR sensor to trigger pellet release upon motion detection.*
 
