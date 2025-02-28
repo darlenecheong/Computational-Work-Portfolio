@@ -26,7 +26,7 @@ This portfolio contains samples of my work across various areas of data analysis
 - *This Python script validates usernames and passwords based on specific criteria (such as length, character types, and restrictions) and provides a function to generate secure passwords that meet all requirements.*
 
 #### [🔗 Text Synonym Replacer](https://github.com/darlenecheong/Text-Synonym-Replacer)
-- *This Python script validates usernames and passwords based on specific criteria (such as length, character types, and restrictions) and provides a function to generate secure passwords that meet all requirements.*
+- *A Python script that replaces words in any text file with synonyms from a thesaurus, with a user-defined probability of substitution.*
 ---
 
 ### ArcGIS Project:
