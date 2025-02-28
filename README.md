@@ -1,5 +1,6 @@
 # 📊 Computational Work Portfolio  
 This portfolio contains samples of my work across various areas of data analysis, statistical analysis, data visualization, programming, and website design.
+
 <br><br>
 
 # Work Samples  
